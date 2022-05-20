@@ -46,6 +46,11 @@ meuse[1,"zinc"]
 meuse$zinc
 head(meuse$zinc)
 
+# examine the class of a specific column (Note: $ operator)
+# Note: all items within a column have to be of the same type 
+class(meuse$zinc)
+class(meuse$landuse)
+
 # export the data to a .csv file
 write.csv(meuse, ".\\data\\meuse.csv")
 
