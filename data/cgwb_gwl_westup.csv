@@ -1,0 +1,737 @@
+"","Year","WlCode","Lat","Lon","District","Block","WellType","PreMonsoonMay","PostMonsoonSep"
+"1",2015,"W20008",28.87361111,77.275,"Baghpat","Khekra","Tube Well",22.58,19.05
+"2",2013,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",26.75,25.3
+"3",2012,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",25.2,24.98
+"4",2011,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",25.11,3.14
+"5",2010,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",26.76,25.54
+"6",2009,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",23.53,24.26
+"7",2008,"W20006",28.93888889,77.22222222,"Baghpat","Baghpat","Tube Well",15.51,14.72
+"8",2007,"W20007",29.18333333,77.41944444,"Baghpat","Binauli","Tube Well",29.25,30.5
+"9",2007,"W20006",28.93888889,77.22222222,"Baghpat","Baghpat","Tube Well",15.05,15.33
+"10",2007,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",18.8,19.9
+"11",2006,"W20007",29.18333333,77.41944444,"Baghpat","Binauli","Tube Well",28.9,30.52
+"12",2006,"W20006",28.93888889,77.22222222,"Baghpat","Baghpat","Tube Well",14.31,14.43
+"13",2005,"W20007",29.18333333,77.41944444,"Baghpat","Binauli","Tube Well",25.48,26
+"14",2005,"W20006",28.93888889,77.22222222,"Baghpat","Baghpat","Tube Well",14.33,13.15
+"15",2005,"W20009",28.95138889,77.41805556,"Baghpat","Pilana","Tube Well",16.18,16.64
+"16",2001,"W14690",28.885,77.36,"Baghpat","Pilana","Dug Well",12.37,12.76
+"17",2000,"W14685",28.93333333,77.21666667,"Baghpat","Baghpat","Dug Well",12.01,12.71
+"18",1999,"W15503",29.26666667,77.15833333,"Baghpat","Chhaprauli","Dug Well",8.86,8.54
+"19",1999,"W14690",28.885,77.36,"Baghpat","Pilana","Dug Well",9.96,10.31
+"20",1999,"W14685",28.93333333,77.21666667,"Baghpat","Baghpat","Dug Well",10.96,11.24
+"21",1998,"W14685",28.93333333,77.21666667,"Baghpat","Baghpat","Dug Well",11.71,8.8
+"22",1998,"W15503",29.26666667,77.15833333,"Baghpat","Chhaprauli","Dug Well",8.99,7.2
+"23",1998,"W14690",28.885,77.36,"Baghpat","Pilana","Dug Well",10.4,8.2
+"24",1997,"W15503",29.26666667,77.15833333,"Baghpat","Chhaprauli","Dug Well",12.48,8.03
+"25",1997,"W14690",28.885,77.36,"Baghpat","Pilana","Dug Well",10.3,9.5
+"26",1997,"W14685",28.93333333,77.21666667,"Baghpat","Baghpat","Dug Well",11.96,10.84
+"27",1996,"W14686",29.1,77.26166667,"Baghpat","Baraut","Dug Well",10.4,10.3
+"28",1996,"W15503",29.26666667,77.15833333,"Baghpat","Chhaprauli","Dug Well",9.15,8.69
+"29",1996,"W14685",28.93333333,77.21666667,"Baghpat","Baghpat","Dug Well",12.69,10.96
+"30",1996,"W14690",28.885,77.36,"Baghpat","Pilana","Dug Well",9.07,8.75
+"31",2016,"W21698",28.52222222,77.97777778,"Bulandshahr","Lakhaothi","Tube Well",8.86,5.52
+"32",2016,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",8.07,8.03
+"33",2016,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",5.2,11.41
+"34",2015,"W22337",28.24027778,77.9375,"Bulandshahr","Araniya","Tube Well",9.22,9.15
+"35",2015,"W21698",28.52222222,77.97777778,"Bulandshahr","Lakhaothi","Tube Well",7.69,4.92
+"36",2015,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",3.21,5.36
+"37",2015,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",5.7,11.6
+"38",2015,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",8.37,8.18
+"39",2013,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.64,5.16
+"40",2013,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",9.7,10
+"41",2013,"W22337",28.24027778,77.9375,"Bulandshahr","Araniya","Tube Well",9.06,7.4
+"42",2013,"W21698",28.52222222,77.97777778,"Bulandshahr","Lakhaothi","Tube Well",6.25,4.69
+"43",2013,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",7.2,7.1
+"44",2013,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",9.42,9.37
+"45",2013,"W21697",28.24166667,77.85555556,"Bulandshahr","Khurja","Tube Well",6.98,6.76
+"46",2013,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",8,7.76
+"47",2012,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",7.08,7.3
+"48",2012,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.12,7
+"49",2012,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",8.77,8.92
+"50",2012,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",9.11,9.1
+"51",2012,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",4.96,4.74
+"52",2012,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",11.25,11.34
+"53",2012,"W21697",28.24166667,77.85555556,"Bulandshahr","Khurja","Tube Well",5.88,6.08
+"54",2012,"W21698",28.52222222,77.97777778,"Bulandshahr","Lakhaothi","Tube Well",5.8,5.45
+"55",2011,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",6.5,6.32
+"56",2011,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.56,5.65
+"57",2011,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",9.02,7.32
+"58",2011,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",9.7,8.41
+"59",2011,"W22337",28.24027778,77.9375,"Bulandshahr","Araniya","Tube Well",8.05,8.46
+"60",2011,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",4.82,4.32
+"61",2011,"W21697",28.24166667,77.85555556,"Bulandshahr","Khurja","Tube Well",6.05,4.26
+"62",2010,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",7.82,6.42
+"63",2010,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.66,5.55
+"64",2010,"W21698",28.52222222,77.97777778,"Bulandshahr","Lakhaothi","Tube Well",6.33,3.98
+"65",2010,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",6.98,3.18
+"66",2010,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.44,4.12
+"67",2010,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",11.01,9.75
+"68",2009,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",6.3,7.75
+"69",2009,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",5.75,5.95
+"70",2009,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",7.72,8.82
+"71",2009,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",10.4,10.5
+"72",2009,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.95,4.29
+"73",2009,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",9.86,10.16
+"74",2008,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",8.84,13.34
+"75",2008,"W21698",28.52222222,77.97777778,"Bulandshahr","Lakhaothi","Tube Well",5.24,3
+"76",2008,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.2,4.6
+"77",2008,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",9.05,7.52
+"78",2008,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",10.15,9.95
+"79",2008,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",6.15,3.25
+"80",2008,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.01,4.14
+"81",2008,"W21697",28.24166667,77.85555556,"Bulandshahr","Khurja","Tube Well",7.13,4.7
+"82",2008,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",6.78,6
+"83",2007,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",7.07,5.63
+"84",2007,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",8.72,8.17
+"85",2007,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.34,3.4
+"86",2007,"W14825",28.31527778,77.73611111,"Bulandshahr","Sikandrabad","Dug Well",12.6,12.83
+"87",2007,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",6.67,8.95
+"88",2007,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",9.69,9.04
+"89",2007,"W15593",28.45,77.69583333,"Bulandshahr","Sikandrabad","Dug Well",9.4,9.35
+"90",2007,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",9.04,9.28
+"91",2007,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",10.05,9.65
+"92",2007,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.68,4.46
+"93",2007,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.31,4.73
+"94",2007,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.68,5.77
+"95",2006,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",4.85,4.67
+"96",2006,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",8.14,7.72
+"97",2006,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.59,3.44
+"98",2006,"W14825",28.31527778,77.73611111,"Bulandshahr","Sikandrabad","Dug Well",12.25,12.03
+"99",2006,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",6.2,5.9
+"100",2006,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",9.65,9.71
+"101",2006,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",8.54,7.85
+"102",2006,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",9.44,9
+"103",2006,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",6.3,5.85
+"104",2006,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.4,3.5
+"105",2006,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.34,4.29
+"106",2006,"W14829",28.61666667,78.10833333,"Bulandshahr","Syana","Dug Well",7.6,7.35
+"107",2005,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",9.5,8.48
+"108",2005,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",9.28,9.03
+"109",2005,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.33,2.01
+"110",2005,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.14,5.5
+"111",2005,"W14829",28.61666667,78.10833333,"Bulandshahr","Syana","Dug Well",7.43,6.67
+"112",2005,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",10.09,8.16
+"113",2005,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",4.16,3.71
+"114",2005,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",10.69,10.69
+"115",2005,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",5.98,5.22
+"116",2005,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",7.77,6.14
+"117",2005,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",3.99,1.18
+"118",2005,"W14825",28.31527778,77.73611111,"Bulandshahr","Sikandrabad","Dug Well",11.34,11.74
+"119",2005,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",5.95,5.43
+"120",2005,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",9.85,8.98
+"121",2005,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",8.31,7.02
+"122",2005,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",4.22,2.58
+"123",2005,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",6.21,4.65
+"124",2004,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",6.38,4.05
+"125",2004,"W14829",28.61666667,78.10833333,"Bulandshahr","Syana","Dug Well",6.82,6.4
+"126",2004,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",7.34,8.52
+"127",2004,"W14819",28.625,77.99166667,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",4.24,3.65
+"128",2004,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",5.7,5.36
+"129",2004,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",7.42,6.58
+"130",2004,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.69,3.57
+"131",2004,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",4.97,5.25
+"132",2004,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",7.91,6.99
+"133",2004,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",6.65,3.5
+"134",2004,"W15594",28.44166667,77.66666667,"Bulandshahr","Sikandrabad","Dug Well",8.87,8.92
+"135",2004,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",8.93,8.73
+"136",2003,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",4.97,3.02
+"137",2003,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",6,4.15
+"138",2003,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.18,4.74
+"139",2003,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",8.39,8.34
+"140",2003,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",8.93,5.74
+"141",2003,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",4.49,3.88
+"142",2003,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",9.45,8.02
+"143",2003,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",5.09,3.11
+"144",2002,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",5.72,4.57
+"145",2002,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",9.29,8.49
+"146",2002,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",4.85,4.27
+"147",2002,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.88,2.55
+"148",2002,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",5.95,4.93
+"149",2002,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",9.06,8.5
+"150",2002,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",4.98,4.22
+"151",2002,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",8.31,7.57
+"152",2002,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",9.61,9.57
+"153",2002,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",5.09,4.97
+"154",2002,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",5.16,3.17
+"155",2002,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",4.67,5.42
+"156",2001,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",4.99,4.32
+"157",2001,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",5,4.18
+"158",2001,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",5.57,4.52
+"159",2001,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",8.92,8.87
+"160",2001,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",8.96,8.66
+"161",2001,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",5.84,4.93
+"162",2001,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",4.82,4.4
+"163",2001,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",4.67,4.27
+"164",2001,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.02,4.92
+"165",2001,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",8.2,8.15
+"166",2001,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",7.14,7.15
+"167",2001,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.33,4.44
+"168",2000,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",4.36,3.11
+"169",2000,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",5.7,4.56
+"170",2000,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",5.39,4.54
+"171",2000,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",3.49,1.84
+"172",2000,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",4.59,3.6
+"173",2000,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",7.12,5.36
+"174",2000,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",4.77,4.17
+"175",2000,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",8.39,7.2
+"176",2000,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",9.1,8.17
+"177",2000,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",4.45,4.21
+"178",2000,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",8.5,7.62
+"179",2000,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",4.88,2.22
+"180",1999,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",7.36,5.76
+"181",1999,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",7.1,4.58
+"182",1999,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",3.24,1.15
+"183",1999,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",5.18,1.91
+"184",1999,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",4.33,4.06
+"185",1999,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",4.57,3.07
+"186",1999,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",4.74,3.09
+"187",1999,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",8.47,7.31
+"188",1999,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",4.31,3.15
+"189",1999,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",9.37,8.81
+"190",1999,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",8.42,7.61
+"191",1999,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",5.67,4.46
+"192",1998,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.04,0.56
+"193",1998,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.14,3.66
+"194",1998,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",6.2,3.6
+"195",1998,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",6.17,3.57
+"196",1998,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",10.55,8
+"197",1998,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",9.24,6.84
+"198",1998,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",5.25,2.53
+"199",1998,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.7,3.65
+"200",1998,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",9.39,7.11
+"201",1998,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",4.85,1.35
+"202",1997,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",9.69,7.99
+"203",1997,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",11.4,10.63
+"204",1997,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",5.15,4.03
+"205",1997,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.24,2.06
+"206",1997,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.5,5.8
+"207",1997,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",5.87,4.37
+"208",1997,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",6.6,5.12
+"209",1997,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",9.24,8.07
+"210",1997,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.14,4.44
+"211",1997,"W15589",28.68333333,77.9375,"Bulandshahr","Bhawan Bahadur Nagar","Dug Well",6.35,3.41
+"212",1997,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",5.45,4.22
+"213",1997,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",10.55,9.83
+"214",1996,"W14827",28.5875,78.15833333,"Bulandshahr","Syana","Dug Well",11.9,10.8
+"215",1996,"W15592",28.17333333,78.11333333,"Bulandshahr","Pahasu","Dug Well",6.67,4.35
+"216",1996,"W14824",28.09333333,78.15333333,"Bulandshahr","Pahasu","Dug Well",4.49,2.84
+"217",1996,"W14822",28.58666667,77.78888889,"Bulandshahr","Gulaothi","Dug Well",9.6,6.72
+"218",1996,"W14817",28.39166667,78.26666667,"Bulandshahr","Anupshahr","Dug Well",9.14,8.07
+"219",1996,"W14821",28.13833333,78.425,"Bulandshahr","Dibai","Dug Well",6.65,5.7
+"220",1996,"W14820",28.40555556,77.84166667,"Bulandshahr","Bulandshahr","Dug Well",9.69,4.6
+"221",1996,"W14828",28.65,78.03333333,"Bulandshahr","Syana","Dug Well",10.49,9.12
+"222",1996,"W15591",28.525,77.79166667,"Bulandshahr","Gulaothi","Dug Well",7.15,5.33
+"223",1996,"W15596",28.48333333,78.15,"Bulandshahr","Unchagaon","Dug Well",10.85,10.2
+"224",1996,"W15590",28.16333333,78.36666667,"Bulandshahr","Dibai","Dug Well",5.04,4.46
+"225",1996,"W14826",28.34527778,77.77166667,"Bulandshahr","Sikandrabad","Dug Well",5.84,4.25
+"226",2016,"W22051",28.58888889,77.38,"Gautam Buddha Nagar","Bisarakha","Tube Well",23.3,27.85
+"227",2016,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.9,15.22
+"228",2016,"W22508",28.52,77.39,"Gautam Buddha Nagar","Bisarakha","Tube Well",30.55,28.91
+"229",2016,"W22053",28.12361111,77.56111111,"Gautam Buddha Nagar","Jewar","Tube Well",19.02,13.66
+"230",2016,"W22052",28.28555556,77.63527778,"Gautam Buddha Nagar","Dankaur","Tube Well",7.6,4.37
+"231",2015,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",16.55,15.7
+"232",2015,"W22052",28.28555556,77.63527778,"Gautam Buddha Nagar","Dankaur","Tube Well",6.5,5.18
+"233",2015,"W22051",28.58888889,77.38,"Gautam Buddha Nagar","Bisarakha","Tube Well",27.16,27.66
+"234",2015,"W22053",28.12361111,77.56111111,"Gautam Buddha Nagar","Jewar","Tube Well",14.1,14.39
+"235",2015,"W22508",28.52,77.39,"Gautam Buddha Nagar","Bisarakha","Tube Well",28.61,29.05
+"236",2014,"W29880",28.52,77.39,"Gautam Buddha Nagar","Bisarakha","Tube Well",10.38,10.34
+"237",2013,"W22052",28.28555556,77.63527778,"Gautam Buddha Nagar","Dankaur","Tube Well",5.68,5
+"238",2013,"W22053",28.12361111,77.56111111,"Gautam Buddha Nagar","Jewar","Tube Well",13.25,11.61
+"239",2013,"W22508",28.52,77.39,"Gautam Buddha Nagar","Bisarakha","Tube Well",23.08,24.35
+"240",2013,"W29829",28.12083333,77.55833333,"Gautam Buddha Nagar","Jewar","Dug Well",16.85,14.9
+"241",2013,"W29880",28.52,77.39,"Gautam Buddha Nagar","Bisarakha","Tube Well",11.8,10.28
+"242",2013,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.5,15.25
+"243",2012,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",14.79,15.1
+"244",2012,"W22053",28.12361111,77.56111111,"Gautam Buddha Nagar","Jewar","Tube Well",12.29,12.27
+"245",2012,"W22051",28.58888889,77.38,"Gautam Buddha Nagar","Bisarakha","Tube Well",18.48,19.83
+"246",2012,"W22508",28.52,77.39,"Gautam Buddha Nagar","Bisarakha","Tube Well",19.64,21.64
+"247",2012,"W22052",28.28555556,77.63527778,"Gautam Buddha Nagar","Dankaur","Tube Well",4.87,4.78
+"248",2011,"W22051",28.58888889,77.38,"Gautam Buddha Nagar","Bisarakha","Tube Well",16.53,17.43
+"249",2011,"W22052",28.28555556,77.63527778,"Gautam Buddha Nagar","Dankaur","Tube Well",4.83,3.7
+"250",2011,"W22053",28.12361111,77.56111111,"Gautam Buddha Nagar","Jewar","Tube Well",12.65,11
+"251",2011,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",16.7,15.76
+"252",2010,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.3,15.28
+"253",2009,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.8,15.62
+"254",2008,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",17.5,15.6
+"255",2007,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",17.55,15.83
+"256",2006,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",9,11.76
+"257",2005,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.78,15.71
+"258",2005,"W14928",28.25,77.60333333,"Gautam Buddha Nagar","Jewar","Dug Well",8.54,8.54
+"259",2004,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.3,15.35
+"260",2004,"W14928",28.25,77.60333333,"Gautam Buddha Nagar","Jewar","Dug Well",8.54,4.72
+"261",2004,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",7.4,5.8
+"262",2003,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",6.54,5.26
+"263",2003,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.44,14.77
+"264",2002,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.16,15
+"265",2001,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",14.9,14.47
+"266",2000,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",14.61,14.35
+"267",2000,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",6.66,5.35
+"268",1999,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",6.61,4.87
+"269",1999,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.14,14.11
+"270",1998,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.5,14.9
+"271",1998,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",6.54,4.33
+"272",1997,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.8,15.5
+"273",1997,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",6.9,5.75
+"274",1997,"W14929",28.12083333,77.55833333,"Gautam Buddha Nagar","Jewar","Dug Well",14.33,12.73
+"275",1996,"W14925",28.5625,77.54861111,"Gautam Buddha Nagar","Dadri","Dug Well",7.18,5.35
+"276",1996,"W14926",28.33333333,77.55833333,"Gautam Buddha Nagar","Dankaur","Dug Well",15.15,15.52
+"277",1996,"W14929",28.12083333,77.55833333,"Gautam Buddha Nagar","Jewar","Dug Well",14.13,12.95
+"278",2016,"W22054",28.80138889,77.62333333,"Ghaziabad","Bhojpur","Tube Well",8.9,8.97
+"279",2016,"W22055",28.63555556,77.6475,"Ghaziabad","Dhaulana","Tube Well",5.34,3.53
+"280",2016,"W22056",28.78583333,78.07916667,"Ghaziabad","Garh Mukteshwar","Tube Well",14.05,13.18
+"281",2016,"W22059",28.64166667,77.82333333,"Ghaziabad","Hapur","Tube Well",11.45,10.9
+"282",2016,"W22060",28.71833333,77.80166667,"Ghaziabad","Hapur","Tube Well",15.34,14.86
+"283",2016,"W22063",28.73333333,77.9,"Ghaziabad","Hapur","Tube Well",11.6,8.91
+"284",2016,"W22065",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",6.21,5.88
+"285",2016,"W29897",28.725,77.48333333,"Ghaziabad","Muradnagar","Tube Well",19.15,19.16
+"286",2016,"W29905",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",6.37,6.29
+"287",2016,"W22061",28.72333333,77.80583333,"Ghaziabad","Hapur","Tube Well",16.9,17.19
+"288",2015,"W29897",28.725,77.48333333,"Ghaziabad","Muradnagar","Tube Well",18.32,18.05
+"289",2015,"W29905",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",6.12,5.5
+"290",2015,"W22062",28.70833333,77.62777778,"Ghaziabad","Bhojpur","Tube Well",8.01,5.6
+"291",2015,"W22060",28.71833333,77.80166667,"Ghaziabad","Hapur","Tube Well",14.33,15.02
+"292",2015,"W22061",28.72333333,77.80583333,"Ghaziabad","Hapur","Tube Well",16.28,16.65
+"293",2015,"W22059",28.64166667,77.82333333,"Ghaziabad","Hapur","Tube Well",10.67,10.5
+"294",2015,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",4.82,4
+"295",2015,"W22056",28.78583333,78.07916667,"Ghaziabad","Garh Mukteshwar","Tube Well",13.71,13.25
+"296",2015,"W22054",28.80138889,77.62333333,"Ghaziabad","Bhojpur","Tube Well",8.45,8.25
+"297",2015,"W22063",28.73333333,77.9,"Ghaziabad","Hapur","Tube Well",9.66,8.6
+"298",2014,"W29905",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",5.9,6.28
+"299",2013,"W29905",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",6.5,5.43
+"300",2013,"W22054",28.80138889,77.62333333,"Ghaziabad","Bhojpur","Tube Well",7.49,7.05
+"301",2013,"W22055",28.63555556,77.6475,"Ghaziabad","Dhaulana","Tube Well",3.73,1.65
+"302",2013,"W22056",28.78583333,78.07916667,"Ghaziabad","Garh Mukteshwar","Tube Well",13.53,12.45
+"303",2013,"W22065",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",6.62,5.44
+"304",2013,"W22059",28.64166667,77.82333333,"Ghaziabad","Hapur","Tube Well",9.09,7.05
+"305",2013,"W22060",28.71833333,77.80166667,"Ghaziabad","Hapur","Tube Well",13.49,12.42
+"306",2013,"W22061",28.72333333,77.80583333,"Ghaziabad","Hapur","Tube Well",15.41,14.95
+"307",2013,"W22062",28.70833333,77.62777778,"Ghaziabad","Bhojpur","Tube Well",7.01,5.5
+"308",2013,"W22063",28.73333333,77.9,"Ghaziabad","Hapur","Tube Well",7.73,7.05
+"309",2013,"W22064",28.77,77.325,"Ghaziabad","Loni","Tube Well",17.15,16.85
+"310",2013,"W22058",28.61111111,77.79166667,"Ghaziabad","Dhaulana","Tube Well",9.86,9.45
+"311",2012,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",3.62,3.5
+"312",2012,"W22061",28.72333333,77.80583333,"Ghaziabad","Hapur","Tube Well",14.49,14.96
+"313",2012,"W22062",28.70833333,77.62777778,"Ghaziabad","Bhojpur","Tube Well",6.24,6.43
+"314",2012,"W22063",28.73333333,77.9,"Ghaziabad","Hapur","Tube Well",7.17,7.12
+"315",2012,"W22064",28.77,77.325,"Ghaziabad","Loni","Tube Well",15.83,16.36
+"316",2012,"W22054",28.80138889,77.62333333,"Ghaziabad","Bhojpur","Tube Well",6.91,7.16
+"317",2012,"W22055",28.63555556,77.6475,"Ghaziabad","Dhaulana","Tube Well",2.84,2.75
+"318",2012,"W22056",28.78583333,78.07916667,"Ghaziabad","Garh Mukteshwar","Tube Well",13.03,12.8
+"319",2012,"W22059",28.64166667,77.82333333,"Ghaziabad","Hapur","Tube Well",7.62,8.82
+"320",2012,"W22065",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",5.62,5.51
+"321",2011,"W22059",28.64166667,77.82333333,"Ghaziabad","Hapur","Tube Well",7.85,6.31
+"322",2011,"W22061",28.72333333,77.80583333,"Ghaziabad","Hapur","Tube Well",14.12,13.82
+"323",2011,"W22062",28.70833333,77.62777778,"Ghaziabad","Bhojpur","Tube Well",6.34,4.96
+"324",2011,"W22063",28.73333333,77.9,"Ghaziabad","Hapur","Tube Well",7.25,6.41
+"325",2011,"W22064",28.77,77.325,"Ghaziabad","Loni","Tube Well",15.53,15.15
+"326",2011,"W22065",28.84722222,77.575,"Ghaziabad","Muradnagar","Tube Well",5.72,5.26
+"327",2011,"W22054",28.80138889,77.62333333,"Ghaziabad","Bhojpur","Tube Well",6.79,6.32
+"328",2011,"W22055",28.63555556,77.6475,"Ghaziabad","Dhaulana","Tube Well",2.95,1.15
+"329",2011,"W22056",28.78583333,78.07916667,"Ghaziabad","Garh Mukteshwar","Tube Well",13.15,12.31
+"330",2010,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",5,3.13
+"331",2010,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",5.43,3.83
+"332",2009,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",5.2,4.6
+"333",2009,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",7.8,6.51
+"334",2009,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",4.8,4.85
+"335",2009,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",12.02,11.67
+"336",2008,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",5.34,3.5
+"337",2008,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",7.89,5.4
+"338",2008,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",5.92,4.4
+"339",2008,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",5.4,4.7
+"340",2008,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",12.47,16.32
+"341",2007,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",5.22,6.16
+"342",2007,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",12.37,11.69
+"343",2007,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",5.48,5.55
+"344",2007,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",5.98,4.8
+"345",2006,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",5.05,4.14
+"346",2006,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.95,2.08
+"347",2006,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",15,15
+"348",2006,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.23,5.08
+"349",2006,"W15674",28.76666667,77.50972222,"Ghaziabad","Muradnagar","Dug Well",5.25,5
+"350",2005,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",4.51,2.51
+"351",2005,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",5.01,3.84
+"352",2005,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",7.45,5.19
+"353",2005,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.36,0.43
+"354",2005,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",11.66,11.4
+"355",2004,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",11.15,10.97
+"356",2004,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",4.75,3.38
+"357",2004,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",4.53,3.89
+"358",2004,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",10.72,11.28
+"359",2004,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.72,6.55
+"360",2004,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.92,1.91
+"361",2003,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",4.5,3.39
+"362",2003,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.54,1.96
+"363",2003,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",10.75,8.85
+"364",2003,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",11.63,9.95
+"365",2003,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",7.94,5.49
+"366",2003,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",3.76,2.22
+"367",2002,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",5.23,3.05
+"368",2002,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",7.08,7.8
+"369",2002,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",9.65,9.99
+"370",2002,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",5.03,3.35
+"371",2001,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",4.74,4.28
+"372",2001,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",4,3.99
+"373",2001,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.72,6.52
+"374",2001,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",10.9,10.92
+"375",2001,"W15673",28.73111111,77.32944444,"Ghaziabad","Loni","Dug Well",12.92,12.88
+"376",2001,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",8.81,8.57
+"377",2000,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",3.96,2.52
+"378",2000,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.98,5.99
+"379",2000,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",10.73,9.27
+"380",2000,"W15673",28.73111111,77.32944444,"Ghaziabad","Loni","Dug Well",12.54,12.43
+"381",2000,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",8.29,8.29
+"382",1999,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",4.63,0.4
+"383",1999,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.12,6.24
+"384",1999,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",3.36,2.95
+"385",1999,"W15673",28.73111111,77.32944444,"Ghaziabad","Loni","Dug Well",11.97,12.1
+"386",1999,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",7.27,7.52
+"387",1999,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",10.27,9.69
+"388",1999,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.11,1.74
+"389",1998,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.72,5.08
+"390",1998,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",6.93,6.49
+"391",1998,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",2.45,1.17
+"392",1998,"W15673",28.73111111,77.32944444,"Ghaziabad","Loni","Dug Well",10.73,12.15
+"393",1998,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",4.14,0.77
+"394",1998,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",4.68,1.47
+"395",1998,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",11.14,8.94
+"396",1997,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",4.8,2.5
+"397",1997,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",4.7,3.18
+"398",1997,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.4,5.9
+"399",1997,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",10.97,10.37
+"400",1997,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.3,1.18
+"401",1997,"W15673",28.73111111,77.32944444,"Ghaziabad","Loni","Dug Well",13.07,12.92
+"402",1997,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",6.55,6.55
+"403",1996,"W14931",28.61666667,77.65416667,"Ghaziabad","Dhaulana","Dug Well",3.38,1.82
+"404",1996,"W15675",28.83666667,77.44861111,"Ghaziabad","Muradnagar","Dug Well",6.47,5.5
+"405",1996,"W14932",28.7875,78.09333333,"Ghaziabad","Garh Mukteshwar","Dug Well",10.97,9.75
+"406",1996,"W15673",28.73111111,77.32944444,"Ghaziabad","Loni","Dug Well",13.26,12.52
+"407",1996,"W15672",28.7,77.36666667,"Ghaziabad","Loni","Dug Well",7.76,5.63
+"408",1996,"W15670",28.84166667,77.98333333,"Ghaziabad","Garh Mukteshwar","Dug Well",4.96,3.29
+"409",1996,"W15671",28.74444444,77.92916667,"Ghaziabad","Hapur","Dug Well",7.52,2.64
+"410",2016,"W29915",28.95833333,77.55,"Meerut","Janikhurd","Tube Well",9.82,9.75
+"411",2016,"W29917",28.95833333,77.55,"Meerut","Janikhurd","Tube Well",7.68,7.44
+"412",2016,"W29929",29.125,78,"Meerut","Hastinapur","Dug Well",11.01,10.3
+"413",2016,"W29935",29.175,77.73333333,"Meerut","Sardhana","Tube Well",8.21,7.51
+"414",2016,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",11.43,11.3
+"415",2016,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",10.11,9.31
+"416",2016,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",19.3,19.38
+"417",2016,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",19.02,19.1
+"418",2015,"W29929",29.125,78,"Meerut","Hastinapur","Dug Well",10.7,10.14
+"419",2015,"W29935",29.175,77.73333333,"Meerut","Sardhana","Tube Well",7.54,7.05
+"420",2015,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",9.47,8.9
+"421",2015,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",10.77,10.65
+"422",2015,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",11.23,11.6
+"423",2015,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",17.78,17.6
+"424",2015,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",18.64,19.2
+"425",2015,"W29936",29.175,77.91666667,"Meerut","Mawana Kalan","Tube Well",10,10.15
+"426",2014,"W29936",29.175,77.91666667,"Meerut","Mawana Kalan","Tube Well",10.01,9.21
+"427",2013,"W29935",29.175,77.73333333,"Meerut","Sardhana","Tube Well",7.27,5.5
+"428",2013,"W29936",29.175,77.91666667,"Meerut","Mawana Kalan","Tube Well",10.18,9
+"429",2013,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",17.91,17.35
+"430",2013,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",10.45,8.85
+"431",2013,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",8.09,10
+"432",2013,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",7.42,6.9
+"433",2013,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",17.04,17
+"434",2012,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",15.35,6.56
+"435",2012,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",9.39,9.94
+"436",2012,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",6.82,7.04
+"437",2011,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",16.76,16.71
+"438",2011,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",15.39,15.18
+"439",2011,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",7.04,6.02
+"440",2011,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",4,9.42
+"441",2011,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",9.18,8.81
+"442",2010,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",16.85,16.32
+"443",2010,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",16.45,15.27
+"444",2010,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",9.12,8.02
+"445",2010,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",6.88,6.06
+"446",2010,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",9.26,8.47
+"447",2009,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",15.21,15.84
+"448",2009,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",8.14,8.6
+"449",2009,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",5.79,6.74
+"450",2008,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",14.88,14.75
+"451",2008,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",7.3,7.9
+"452",2008,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",7.64,7.16
+"453",2008,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",7.3,7.47
+"454",2008,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",5.68,4.66
+"455",2008,"W20041",29.13333333,77.57361111,"Meerut","Sarurpur Khurd","Tube Well",9,8.46
+"456",2008,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",14.68,14.89
+"457",2007,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",6.28,6.61
+"458",2007,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",6.7,7
+"459",2007,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",5.63,6.95
+"460",2007,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",4.82,4.88
+"461",2007,"W20040",29.03472222,77.54583333,"Meerut","Rohta","Tube Well",8.2,8.7
+"462",2007,"W20041",29.13333333,77.57361111,"Meerut","Sarurpur Khurd","Tube Well",8.3,8.5
+"463",2007,"W15889",28.98,77.935,"Meerut","Rajpura","Dug Well",15.2,14.9
+"464",2007,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",10.65,14.57
+"465",2007,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",13.8,14.05
+"466",2007,"W20032",29.13472222,77.71388889,"Meerut","Daurala","Tube Well",6.77,6.35
+"467",2007,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",14.05,14.25
+"468",2006,"W15889",28.98,77.935,"Meerut","Rajpura","Dug Well",15.8,14.13
+"469",2006,"W20033",29.14861111,77.98472222,"Meerut","Hastinapur","Tube Well",8.8,7.55
+"470",2006,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",10.54,10.54
+"471",2006,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",6.34,6.26
+"472",2006,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",13.56,12.72
+"473",2006,"W20032",29.13472222,77.71388889,"Meerut","Daurala","Tube Well",6.15,5.79
+"474",2006,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",5.77,5.42
+"475",2006,"W20040",29.03472222,77.54583333,"Meerut","Rohta","Tube Well",8.04,9.46
+"476",2006,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",5.5,5.65
+"477",2006,"W20041",29.13333333,77.57361111,"Meerut","Sarurpur Khurd","Tube Well",9.8,7.77
+"478",2006,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",13.6,13.26
+"479",2006,"W20034",28.9625,77.56166667,"Meerut","Janikhurd","Tube Well",3.07,2.66
+"480",2006,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",4.22,3.96
+"481",2005,"W20041",29.13333333,77.57361111,"Meerut","Sarurpur Khurd","Tube Well",7.54,8.9
+"482",2005,"W20040",29.03472222,77.54583333,"Meerut","Rohta","Tube Well",8.4,6.5
+"483",2005,"W20039",28.97777778,77.93611111,"Meerut","Parikshitgarh","Tube Well",3.84,2.93
+"484",2005,"W20038",28.9125,77.66611111,"Meerut","Meerut","Tube Well",5.01,5.34
+"485",2005,"W20037",29.09166667,77.86111111,"Meerut","Mawana Kalan","Tube Well",5.68,5.38
+"486",2005,"W20036",28.90138889,77.89305556,"Meerut","Machra","Tube Well",4.68,4.55
+"487",2005,"W20035",28.79027778,77.75972222,"Meerut","Kharkhoda","Tube Well",13.29,12.53
+"488",2005,"W20034",28.9625,77.56166667,"Meerut","Janikhurd","Tube Well",3.12,1.8
+"489",2005,"W20033",29.14861111,77.98472222,"Meerut","Hastinapur","Tube Well",8.5,7.5
+"490",2005,"W20032",29.13472222,77.71388889,"Meerut","Daurala","Tube Well",6.34,5.6
+"491",2005,"W20433",28.95888889,77.68472222,"Meerut","Meerut","Tube Well",12.03,12.13
+"492",2005,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",11.99,10.2
+"493",2005,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",9.27,9.1
+"494",2005,"W15889",28.98,77.935,"Meerut","Rajpura","Dug Well",14.35,13.2
+"495",2004,"W15889",28.98,77.935,"Meerut","Rajpura","Dug Well",13.85,13.07
+"496",2004,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",8.54,8.41
+"497",2004,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",8.14,6.61
+"498",2003,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",8.45,7.82
+"499",2003,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",7.14,5.54
+"500",2003,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",11.75,9.19
+"501",2002,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",8.73,7.81
+"502",2002,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",15.55,15.18
+"503",2002,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",7.58,7.19
+"504",2002,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",10.86,13.16
+"505",2001,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",7.27,8.05
+"506",2001,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",9.61,10.16
+"507",2001,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",6.43,6.69
+"508",2001,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",14.44,14.97
+"509",2000,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",13.94,11.84
+"510",2000,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",7.1,6.29
+"511",2000,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",5.66,4.06
+"512",2000,"W15199",28.955,78.02666667,"Meerut","Parikshitgarh","Dug Well",12.11,10.21
+"513",2000,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",8.77,8.66
+"514",1999,"W15195",29.125,78,"Meerut","Hastinapur","Dug Well",4.4,1.99
+"515",1999,"W15199",28.955,78.02666667,"Meerut","Parikshitgarh","Dug Well",11.59,10.67
+"516",1999,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",13.6,13.58
+"517",1999,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",5.05,4.61
+"518",1999,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",6.39,6.49
+"519",1999,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",7.83,7.69
+"520",1999,"W15888",28.885,77.62166667,"Meerut","Meerut","Dug Well",3.7,3.06
+"521",1998,"W15888",28.885,77.62166667,"Meerut","Meerut","Dug Well",4.18,1.47
+"522",1998,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",14.43,13.54
+"523",1998,"W15199",28.955,78.02666667,"Meerut","Parikshitgarh","Dug Well",12.02,9.47
+"524",1998,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",8.57,5.83
+"525",1998,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",5.6,2.48
+"526",1998,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",9.3,6.97
+"527",1998,"W15196",28.96166667,77.57166667,"Meerut","Janikhurd","Dug Well",5.25,2.49
+"528",1998,"W15195",29.125,78,"Meerut","Hastinapur","Dug Well",4.4,1.43
+"529",1997,"W15199",28.955,78.02666667,"Meerut","Parikshitgarh","Dug Well",12.36,12.52
+"530",1997,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",6.34,4.66
+"531",1997,"W15197",28.895,77.87166667,"Meerut","Machra","Dug Well",10.54,8.85
+"532",1997,"W15196",28.96166667,77.57166667,"Meerut","Janikhurd","Dug Well",5.25,3.3
+"533",1997,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",14.7,14.2
+"534",1997,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",8.93,5.88
+"535",1997,"W15195",29.125,78,"Meerut","Hastinapur","Dug Well",4.4,1.9
+"536",1996,"W15887",28.98527778,77.7,"Meerut","Meerut","Dug Well",14.65,14.4
+"537",1996,"W15195",29.125,78,"Meerut","Hastinapur","Dug Well",4.4,2.78
+"538",1996,"W15196",28.96166667,77.57166667,"Meerut","Janikhurd","Dug Well",5.25,3.25
+"539",1996,"W15886",29.10833333,77.78,"Meerut","Daurala","Dug Well",9.34,8.15
+"540",1996,"W15888",28.885,77.62166667,"Meerut","Meerut","Dug Well",7.03,7.03
+"541",1996,"W15198",29.08333333,77.86666667,"Meerut","Mawana Kalan","Dug Well",6.28,4.87
+"542",1996,"W15199",28.955,78.02666667,"Meerut","Parikshitgarh","Dug Well",12.56,10.67
+"543",2016,"W21936",29.46388889,77.575,"Muzaffarnagar","Baghara","Tube Well",14.64,11.7
+"544",2016,"W21938",29.39166667,77.21333333,"Muzaffarnagar","Kairana","Tube Well",23.29,24
+"545",2016,"W21939",29.46666667,77.95833333,"Muzaffarnagar","Morna","Tube Well",18.24,16.66
+"546",2016,"W21940",29.475,77.72777778,"Muzaffarnagar","Muzaffarnagar","Tube Well",13.44,12.94
+"547",2016,"W21941",29.59166667,77.43333333,"Muzaffarnagar","Thana Bhawan","Tube Well",11.72,9.97
+"548",2016,"W21943",29.58666667,77.16666667,"Muzaffarnagar","Un","Tube Well",23.44,22.82
+"549",2016,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",9.05,8.39
+"550",2016,"W29953",29.35,77.54166667,"Muzaffarnagar","Shahpur","Tube Well",18.51,17.15
+"551",2016,"W33004",29.29166667,77.73333333,"Muzaffarnagar","Khatauli","Tube Well",3.97,3.12
+"552",2016,"W33005",29.45833333,77.31666667,"Muzaffarnagar","Shamli","Tube Well",19.44,19.31
+"553",2016,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.74,3.5
+"554",2016,"W29946",29.27222222,77.60972222,"Muzaffarnagar","Khatauli","Tube Well",15.09,13.32
+"555",2015,"W21937",29.55138889,77.58472222,"Muzaffarnagar","Charthawal","Tube Well",9.33,8.35
+"556",2015,"W29946",29.27222222,77.60972222,"Muzaffarnagar","Khatauli","Tube Well",13.92,13.18
+"557",2015,"W29953",29.35,77.54166667,"Muzaffarnagar","Shahpur","Tube Well",16.84,17.1
+"558",2015,"W21943",29.58666667,77.16666667,"Muzaffarnagar","Un","Tube Well",21.76,22.35
+"559",2015,"W21936",29.46388889,77.575,"Muzaffarnagar","Baghara","Tube Well",14.25,11.7
+"560",2015,"W21939",29.46666667,77.95833333,"Muzaffarnagar","Morna","Tube Well",17.4,16.5
+"561",2015,"W21941",29.59166667,77.43333333,"Muzaffarnagar","Thana Bhawan","Tube Well",11.93,11
+"562",2015,"W21940",29.475,77.72777778,"Muzaffarnagar","Muzaffarnagar","Tube Well",12.42,12.3
+"563",2015,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",6.05,5.25
+"564",2015,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.77,3.1
+"565",2015,"W21942",29.625,77.14666667,"Muzaffarnagar","Un","Tube Well",11.46,11.4
+"566",2015,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",8.26,8.25
+"567",2013,"W21943",29.58666667,77.16666667,"Muzaffarnagar","Un","Tube Well",22.2,20.85
+"568",2013,"W31970",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",3.69,3.2
+"569",2013,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",10.7,9.4
+"570",2013,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.69,6.2
+"571",2013,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",4.75,3.95
+"572",2013,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.33,2.7
+"573",2013,"W21936",29.46388889,77.575,"Muzaffarnagar","Baghara","Tube Well",11.74,11
+"574",2013,"W21937",29.55138889,77.58472222,"Muzaffarnagar","Charthawal","Tube Well",7.8,7.05
+"575",2013,"W21939",29.46666667,77.95833333,"Muzaffarnagar","Morna","Tube Well",17.08,16.35
+"576",2013,"W21940",29.475,77.72777778,"Muzaffarnagar","Muzaffarnagar","Tube Well",12.49,11
+"577",2012,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",5.03,4.41
+"578",2012,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",11.29,10.51
+"579",2012,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",5.3,3.5
+"580",2012,"W21936",29.46388889,77.575,"Muzaffarnagar","Baghara","Tube Well",12.3,10.43
+"581",2012,"W21937",29.55138889,77.58472222,"Muzaffarnagar","Charthawal","Tube Well",8.33,7.26
+"582",2012,"W21938",29.39166667,77.21333333,"Muzaffarnagar","Kairana","Tube Well",21.7,22.3
+"583",2012,"W21939",29.46666667,77.95833333,"Muzaffarnagar","Morna","Tube Well",15.23,6.58
+"584",2012,"W21940",29.475,77.72777778,"Muzaffarnagar","Muzaffarnagar","Tube Well",11.27,11.12
+"585",2012,"W21941",29.59166667,77.43333333,"Muzaffarnagar","Thana Bhawan","Tube Well",12.26,11.38
+"586",2012,"W21942",29.625,77.14666667,"Muzaffarnagar","Un","Tube Well",10.69,10.25
+"587",2012,"W21943",29.58666667,77.16666667,"Muzaffarnagar","Un","Tube Well",20.28,20.69
+"588",2012,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.94,7.6
+"589",2011,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",5.07,3.25
+"590",2011,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.89,7.11
+"591",2011,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",10.09,9.88
+"592",2011,"W21936",29.46388889,77.575,"Muzaffarnagar","Baghara","Tube Well",10.05,10.06
+"593",2011,"W21943",29.58666667,77.16666667,"Muzaffarnagar","Un","Tube Well",19.33,19.23
+"594",2011,"W21938",29.39166667,77.21333333,"Muzaffarnagar","Kairana","Tube Well",21.14,21.52
+"595",2011,"W21939",29.46666667,77.95833333,"Muzaffarnagar","Morna","Tube Well",15.75,15.32
+"596",2011,"W21940",29.475,77.72777778,"Muzaffarnagar","Muzaffarnagar","Tube Well",10.68,10.26
+"597",2011,"W21941",29.59166667,77.43333333,"Muzaffarnagar","Thana Bhawan","Tube Well",11.33,10.84
+"598",2011,"W21942",29.625,77.14666667,"Muzaffarnagar","Un","Tube Well",10.64,10.09
+"599",2011,"W21937",29.55138889,77.58472222,"Muzaffarnagar","Charthawal","Tube Well",7.29,6.84
+"600",2010,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",4.5,3.07
+"601",2010,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",8.17,7.13
+"602",2010,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",5.32,3.3
+"603",2010,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",10.59,9.33
+"604",2010,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",4.12,3.06
+"605",2010,"W21936",29.46388889,77.575,"Muzaffarnagar","Baghara","Tube Well",11.01,9.73
+"606",2010,"W21943",29.58666667,77.16666667,"Muzaffarnagar","Un","Tube Well",20.35,18.86
+"607",2010,"W21938",29.39166667,77.21333333,"Muzaffarnagar","Kairana","Tube Well",21.93,21
+"608",2010,"W21939",29.46666667,77.95833333,"Muzaffarnagar","Morna","Tube Well",16.71,14.58
+"609",2010,"W21940",29.475,77.72777778,"Muzaffarnagar","Muzaffarnagar","Tube Well",10.51,10.1
+"610",2010,"W21941",29.59166667,77.43333333,"Muzaffarnagar","Thana Bhawan","Tube Well",12.66,10.95
+"611",2010,"W21942",29.625,77.14666667,"Muzaffarnagar","Un","Tube Well",10.53,9.29
+"612",2010,"W21937",29.55138889,77.58472222,"Muzaffarnagar","Charthawal","Tube Well",8.17,7.25
+"613",2009,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.8,3.91
+"614",2009,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.83,7.55
+"615",2009,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",3.48,4.28
+"616",2009,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",9.76,9.48
+"617",2009,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",4.05,3.57
+"618",2008,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",4.05,3.29
+"619",2008,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",9.22,8.29
+"620",2008,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.65,6.08
+"621",2007,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.95,5.5
+"622",2007,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.8,3.55
+"623",2007,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",7.57,7.57
+"624",2007,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",8.9,7.95
+"625",2007,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",4.15,2.5
+"626",2007,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.2,3.1
+"627",2007,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",8.42,6.95
+"628",2006,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.88,3.46
+"629",2006,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",6.88,7.32
+"630",2006,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",3.95,3.34
+"631",2006,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.55,2.9
+"632",2006,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",6.8,6.45
+"633",2005,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.9,4.58
+"634",2005,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",4.04,3
+"635",2005,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",7.3,6.1
+"636",2005,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.14,5.6
+"637",2005,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",4.34,1.72
+"638",2005,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",3.31,2.65
+"639",2005,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.85,1.15
+"640",2004,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.45,5.05
+"641",2004,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",2.77,3.5
+"642",2004,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.63,4.27
+"643",2004,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",12.99,13.59
+"644",2004,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",5.65,6.05
+"645",2004,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",6.72,6.45
+"646",2004,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",5.1,4.63
+"647",2004,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",3.06,2.53
+"648",2004,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.45,2.35
+"649",2003,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.1,4.7
+"650",2003,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.85,3.51
+"651",2003,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.25,3.18
+"652",2003,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",6.55,4.5
+"653",2003,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",6.75,5.8
+"654",2003,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",4.73,3.5
+"655",2003,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",2.91,2.21
+"656",2003,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.07,2
+"657",2002,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",7.3,5.83
+"658",2002,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.93,4.49
+"659",2002,"W15906",29.46833333,77.9375,"Muzaffarnagar","Morna","Dug Well",13.84,12.67
+"660",2002,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.42,3.65
+"661",2002,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",5.12,5.54
+"662",2002,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",13.61,13.68
+"663",2002,"W15230",29.63277778,77.22388889,"Muzaffarnagar","Un","Dug Well",0.63,6.46
+"664",2002,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",5.44,3.38
+"665",2002,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",3.03,2.03
+"666",2002,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.05,1.95
+"667",2002,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.49,3.41
+"668",2001,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",6.84,5.92
+"669",2001,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.74,5.26
+"670",2001,"W15906",29.46833333,77.9375,"Muzaffarnagar","Morna","Dug Well",14.89,14.34
+"671",2001,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.66,3.27
+"672",2001,"W15910",29.45,77.39166667,"Muzaffarnagar","Shamli","Dug Well",9.51,10.01
+"673",2001,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",5.72,5.75
+"674",2001,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",12.33,11.87
+"675",2001,"W15230",29.63277778,77.22388889,"Muzaffarnagar","Un","Dug Well",6.33,5.83
+"676",2001,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",5.26,4.1
+"677",2001,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",3.01,2.59
+"678",2001,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.41,2.44
+"679",2001,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.77,4.12
+"680",2000,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",6.34,5.76
+"681",2000,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.46,5.3
+"682",2000,"W15906",29.46833333,77.9375,"Muzaffarnagar","Morna","Dug Well",12.94,12.79
+"683",2000,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.59,2.96
+"684",2000,"W15910",29.45,77.39166667,"Muzaffarnagar","Shamli","Dug Well",8.6,8.32
+"685",2000,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.56,3.89
+"686",2000,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",12.39,11.53
+"687",2000,"W15230",29.63277778,77.22388889,"Muzaffarnagar","Un","Dug Well",6.09,5.6
+"688",2000,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",2.62,2.6
+"689",2000,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",2.86,2.07
+"690",2000,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",4.79,1.98
+"691",1999,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",2.78,2.47
+"692",1999,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",3.55,3.76
+"693",1999,"W15226",29.46166667,77.80833333,"Muzaffarnagar","Muzaffarnagar","Dug Well",4.98,4.94
+"694",1999,"W15904",29.39444444,77.78888889,"Muzaffarnagar","Jansath","Dug Well",4.16,3.5
+"695",1999,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",2.6,2.37
+"696",1999,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",4.62,3.16
+"697",1999,"W15906",29.46833333,77.9375,"Muzaffarnagar","Morna","Dug Well",12.33,12.13
+"698",1999,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.04,4
+"699",1999,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",5.7,5.09
+"700",1999,"W15910",29.45,77.39166667,"Muzaffarnagar","Shamli","Dug Well",6.93,7.58
+"701",1999,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",11.3,11.75
+"702",1999,"W15220",29.56833333,77.51833333,"Muzaffarnagar","Charthawal","Dug Well",4.59,5.01
+"703",1999,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",4.98,4.54
+"704",1999,"W15230",29.63277778,77.22388889,"Muzaffarnagar","Un","Dug Well",5.3,5.38
+"705",1999,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.56,3
+"706",1998,"W15225",29.22166667,77.73333333,"Muzaffarnagar","Khatauli","Dug Well",2.69,1.18
+"707",1998,"W15223",29.39,77.925,"Muzaffarnagar","Jansath","Dug Well",11.07,4.6
+"708",1998,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",4.92,1.7
+"709",1998,"W15230",29.63277778,77.22388889,"Muzaffarnagar","Un","Dug Well",5.38,2.82
+"710",1998,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",12.32,9.85
+"711",1998,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.23,2.37
+"712",1998,"W15904",29.39444444,77.78888889,"Muzaffarnagar","Jansath","Dug Well",4.21,2.26
+"713",1998,"W15910",29.45,77.39166667,"Muzaffarnagar","Shamli","Dug Well",7.58,4.45
+"714",1998,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.61,2.43
+"715",1998,"W15906",29.46833333,77.9375,"Muzaffarnagar","Morna","Dug Well",13.03,12.26
+"716",1998,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",5.68,2.25
+"717",1998,"W15220",29.56833333,77.51833333,"Muzaffarnagar","Charthawal","Dug Well",4.2,1.99
+"718",1998,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",6.41,0.82
+"719",1998,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",1.7,1.5
+"720",1998,"W15226",29.46166667,77.80833333,"Muzaffarnagar","Muzaffarnagar","Dug Well",5.32,3.53
+"721",1997,"W15226",29.46166667,77.80833333,"Muzaffarnagar","Muzaffarnagar","Dug Well",5.85,7.49
+"722",1997,"W15908",29.495,77.99,"Muzaffarnagar","Morna","Dug Well",3.8,3.4
+"723",1997,"W15221",29.5375,77.59416667,"Muzaffarnagar","Charthawal","Dug Well",6.28,3.3
+"724",1997,"W15910",29.45,77.39166667,"Muzaffarnagar","Shamli","Dug Well",8.38,6.96
+"725",1997,"W15229",29.295,77.555,"Muzaffarnagar","Shahpur","Dug Well",13.32,13.19
+"726",1997,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",5,3.12
+"727",1997,"W15219",29.49166667,77.49333333,"Muzaffarnagar","Baghara","Dug Well",12.58,7.62
+"728",1997,"W15904",29.39444444,77.78888889,"Muzaffarnagar","Jansath","Dug Well",4.51,3.21
+"729",1997,"W15218",29.46805556,77.58055556,"Muzaffarnagar","Baghara","Dug Well",6.16,3.95
+"730",1997,"W15223",29.39,77.925,"Muzaffarnagar","Jansath","Dug Well",7.8,5.95
+"731",1997,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.08,1.65
+"732",1997,"W15905",29.345,77.70666667,"Muzaffarnagar","Khatauli","Dug Well",5.77,4.6
+"733",1997,"W15220",29.56833333,77.51833333,"Muzaffarnagar","Charthawal","Dug Well",4.78,3.65
+"734",1996,"W15228",29.605,77.85666667,"Muzaffarnagar","Purkaji","Dug Well",4.38,2.63
+"735",1996,"W15222",29.3125,77.85,"Muzaffarnagar","Jansath","Dug Well",3.82,1.64
+"736",1996,"W15227",29.60972222,77.88083333,"Muzaffarnagar","Purkaji","Dug Well",3.37,1.56
