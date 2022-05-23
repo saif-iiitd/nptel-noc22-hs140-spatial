@@ -58,7 +58,7 @@ plot(plot(lzn.vgm.cloud, identify=TRUE), sp.data.in)
 # experimental variogram - without removing trend
 ## Note:
 ## log(zinc)~1 means that we assume a constant trend for
-## the variable log(zinc) - gstat user manual, page 7
+## the variable log(zinc) - gstat tutorial, page 7
 ## https://cran.r-project.org/web/packages/gstat/vignettes/gstat.pdf
 lzn.vgm = variogram(log(zinc)~1, sp.data.in)
 
