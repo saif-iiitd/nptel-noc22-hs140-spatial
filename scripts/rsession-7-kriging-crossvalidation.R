@@ -26,16 +26,15 @@ map_predicted_gwl <- function(df)
 }
 
 
-map_variance_gwl <- function(df, year)
+map_variance_gwl <- function(df)
 {
   r   <- raster(df, layer="var1.var")
-  r.m <- mask(r, western_up_adm)
+  r.m <- mask(r, up)
   
   tm_shape(r.m) + 
     tm_raster(n=7, palette ="Reds",
               title="Variance map \n(in squared meters)") +
-    tm_shape(sp_gwl[sp_gwl$Year==year,]) + tm_dots(size=0.2) +
-    tm_shape(western_up_adm) + tm_polygons(alpha = 0, lwd = 2) +
+    tm_shape(up) + tm_polygons(alpha = 0, lwd = 2) +
     tm_text("NAME_2", size = 0.75, ymod = -0.3, xmod = 0.2,  
             remove.overlap = FALSE) +
     tm_legend(legend.outside=TRUE)
@@ -59,7 +58,12 @@ krg <- krige(PostMonsoon~1, subset(westup.gwl.2015,
 
 
 # cross validation
-lzn.cv <- krige.cv(log(zinc)~1,meuse, lzn.fit, nmax = 10)
+lzn.cv <- krige.cv(PostMonsoon~1,westup.gwl.2015,lzn.fit.sp,nmax = 10)
+
+# regress predicted values on observed values
 plot(lzn.cv@data$observed, lzn.cv@data$var1.pred)
 abline(lm(lzn.cv@data$var1.pred~lzn.cv@data$observed), col = "blue")
 summary(lm(lzn.cv@data$var1.pred~lzn.cv@data$observed))
+
+# Correlation Coefficient between predicted and observed values
+cor.test(lzn.cv@data$var1.pred, lzn.cv@data$observed, na.rm=TRUE, method = "pearson")
