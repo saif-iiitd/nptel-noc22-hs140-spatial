@@ -1,5 +1,5 @@
 #### Example R Code: Spatial Statistics and Spatial Econometrics, NPTEL
-#### R Session 6: Model  Variograms - Part I
+#### R Session 7: Model  Variograms - Part I
 #### Author: Saif Ali, saifa@iiitd.ac.in
 #### Date: May 2022
 
