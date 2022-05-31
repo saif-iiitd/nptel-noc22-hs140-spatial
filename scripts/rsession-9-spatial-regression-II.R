@@ -50,3 +50,19 @@ spplot(upL3.sp.1, "residuals", col="black")
 
 # Check for residual spatial auto-correlation - Moran's I Test
 moran.mc(upL3.sp.1$residuals, W.listw, 999)
+
+
+# SLX: Spatial Lag in X Model
+fit.SLX <- lmSLX(reg_eqn, upL3.sp.1, W.listw)
+
+# Look at the results
+summary(fit.SLX)
+
+# Get the residuals for each sub-district
+upL3.sp.1$residuals <- residuals(fit.SLX)
+
+# Plot the residuals
+spplot(upL3.sp.1, "residuals", col="black")
+
+# Check for residual spatial auto-correlation - Moran's I Test
+moran.mc(upL3.sp.1$residuals, W.listw, 999)
