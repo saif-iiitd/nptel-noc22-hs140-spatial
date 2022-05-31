@@ -46,17 +46,20 @@ tm_shape(upL3.sp) + tm_polygons(col="RFL_TY")
 tm_shape(upL3.sp) + tm_polygons(col="TEMP_TY")
 tm_shape(upL3.sp) + tm_polygons(col="PCTCROPAREA_LY")
 
+# Remove the unit with missing data
+upL3.sp.1 <- upL3.sp[!is.na(upL3.sp$POSTMONSOON),]
+
 
 ### 2. BUILD WEIGHTS MATRIX (SPATIAL NEIGHBORHOODS)
 
 # Polygon to neighborhoods - from the spdep package
-W.nb <- poly2nb(upL3.sp)
+W.nb <- poly2nb(upL3.sp.1)
 
 # Extract centroid coordinates from the polygon boundaries
-centroid.coords <- coordinates(upL3.sp)
+centroid.coords <- coordinates(upL3.sp.1)
 
 # Visualize queen neighborhoods
-plot(upL3.sp)
+plot(upL3.sp.1)
 plot(W.nb, centroid.coords, col="red", add = TRUE)
 
 # Convert format to a list type
